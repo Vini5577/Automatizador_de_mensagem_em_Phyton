@@ -1,2 +1,2 @@
-# Phyton_Chatbot
- Chatbot feito em Phyton
+# Automatizador de mensagem
+ automizando mensagem utilizando Phyton
